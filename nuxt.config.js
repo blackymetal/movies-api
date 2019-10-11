@@ -48,6 +48,7 @@ export default {
   ** See https://axios.nuxtjs.org/options
   */
   axios: {
+      baseUrl: "https://api.themoviedb.org/3/"
   },
   /*
   ** Build configuration
